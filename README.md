@@ -1,4 +1,4 @@
-# í¼¤ï¸ Weather App
+# ï¿½ï¿½ï¿½ï¸ Weather App
 
 A beautiful weather application built with React and Node.js that provides real-time weather information for cities worldwide.
 
@@ -12,7 +12,7 @@ A beautiful weather application built with React and Node.js that provides real-
 - **Weather Icons**: Visual representation of weather conditions
 - **Sunrise/Sunset Times**: Know when the sun rises and sets
 
-## í» ï¸ Technologies Used
+## ï¿½ï¿½ï¿½ï¸ Technologies Used
 
 ### Frontend
 - React.js
@@ -24,14 +24,14 @@ A beautiful weather application built with React and Node.js that provides real-
 - Express.js
 - OpenWeatherMap API
 
-## í³‹ Prerequisites
+## ï¿½ï¿½ï¿½ Prerequisites
 
 Before running this application, make sure you have:
 - Node.js installed (v14 or higher)
 - npm or yarn package manager
 - OpenWeatherMap API key (free)
 
-## íº€ Installation & Setup
+## ï¿½ï¿½ï¿½ Installation & Setup
 
 ### 1. Clone the repository
 \`\`\`bash
@@ -73,14 +73,14 @@ npm start
 
 5. Open http://localhost:3000 in your browser
 
-## í¾¯ How to Use
+## ï¿½ï¿½ï¿½ How to Use
 
 1. Enter a city name in the search box
 2. Click "Get Weather" or press Enter
 3. View comprehensive weather information
 4. Click on recent searches to quickly check other cities
 
-## í³Š API Response Data
+## ï¿½ï¿½ï¿½ API Response Data
 
 The app displays:
 - Current temperature
@@ -95,7 +95,7 @@ The app displays:
 - Sunrise and sunset times
 - Weather icon
 
-## í´’ Environment Variables
+## ï¿½ï¿½ï¿½ Environment Variables
 
 Create a \`.env\` file in the backend folder:
 \`\`\`
@@ -103,22 +103,22 @@ PORT=5000
 API_KEY=your_api_key_here
 \`\`\`
 
-## í´ Contributing
+## ï¿½ï¿½ï¿½ Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## í³ License
+## ï¿½ï¿½ï¿½ License
 
 This project is licensed under the MIT License.
 
-## í¹ Acknowledgments
+## ï¿½ï¿½ï¿½ Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather API
 - [React](https://reactjs.org/) for the frontend framework
 - [Express](https://expressjs.com/) for the backend framework
 
-## í³§ Contact
+## ï¿½ï¿½ï¿½ Contact
 
-Your Name - your.email@example.com
+Your Name - solytesfa32@gmail.com
 
-Project Link: https://github.com/YOUR_USERNAME/weather-app
+Project Link: https://github.com/AmSaved/weather-app
